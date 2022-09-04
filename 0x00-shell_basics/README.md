@@ -1,1 +1,1 @@
-Script that moves file
+script that deletes all files
