@@ -1,1 +1,1 @@
-script that deletes all files
+script that creates
