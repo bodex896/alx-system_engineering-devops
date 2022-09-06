@@ -1,1 +1,1 @@
-script that displays
+Display the content 
